@@ -2,6 +2,7 @@
 
 微博表情输入法 [演示地址](https://brahmachen.github.io/emoji-input-method/dist/#)
 
+![示例](https://brahmachen.github.io/my-image-server/18-12/20181219190601.png)
 ## Project setup
 ```
 yarn install
