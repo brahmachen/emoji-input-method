@@ -1,5 +1,7 @@
 # emoji-input-method
 
+微博表情输入法 [演示地址](https://brahmachen.github.io/emoji-input-method/dist/#)
+
 ## Project setup
 ```
 yarn install
